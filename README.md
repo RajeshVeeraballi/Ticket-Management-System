@@ -2,6 +2,7 @@
 
 Summary	:	The Ticketing Management System is designed for use by organizations to Create, Track and 
 		Resolve issues efficiently.
+
 Description	:
 * Any Person belonging to the organization can log in to the portal and open a ticket to get an issue resolved.
 * If the user is not registered, the user will be redirected to a registration page where the user can register using a unique login.
